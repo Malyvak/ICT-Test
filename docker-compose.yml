@@ -3,4 +3,4 @@ services:
   web:
     build: ./ict-test
     ports:
-      - "80:80"
+      - "8080:80"
